@@ -3,7 +3,11 @@
 I have created a HR ATTRITION Analytics Dashboard by using Excel. The dashboard shows detailed Attrition analysis of Employees from an organisation. 
 I used complex parameters to drill down in worksheet and customization using filters and slicers.
 I created connection, joins new tables, calculations to manipulate data and user driven parameters for visualizations.
-Skills: Advance Excel - Data Cleaning - Data Transformation (ETL) - Prepare Data Model - Data Analysing (DAX) - Data Visualization - Excel - Created Insights.
+Skills: Advance Excel
+
+![Screenshot 2024-01-15 at 4 05 27 PM](https://github.com/thedataguy88/HRanalytics/assets/156714485/b37e65e9-f5d4-4008-a90a-936a14872729)
+
+
 ### Data Sources
 The primamry dataset used for this analysis is the " https://docs.google.com/spreadsheets/d/1hHOauD2vEMBCBxkTtpC3sTgQQh9ELyTG/edit#gid=296240457 " file containing detailed information on the attrition stats in the company.
 ### Tools
